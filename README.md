@@ -6,4 +6,4 @@ Projek_inzynierski consist of whole work done on the project - preparing data, t
 
 Model_detekcyjny consist only the code necessary to detect and vizualize detection results
 
-Dedicated folder structure TBA
+
